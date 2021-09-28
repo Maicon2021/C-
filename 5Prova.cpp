@@ -13,7 +13,7 @@ int main(){
     // repetir enquanto numero diferente de zero
     while (numero != 0){
     	
-		cout << "Digite um Numero: ";
+	cout << "Digite um Numero: ";
     	cin >> numero;
     	
     	
